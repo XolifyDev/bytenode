@@ -1,6 +1,6 @@
 {
   "name": "@xolifydev/xolicompiler",
-  "version": "1.0.3",
+  "version": "2.0.0",
   "description": "A minimalist bytecode compiler for Node.js | Uses bytenode",
   "main": "lib/index.js",
   "bin": "lib/cli.js",
